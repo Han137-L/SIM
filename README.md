@@ -1,5 +1,4 @@
 # simple_task_list.py
-from datetime import datetime
 
 class Task:
     def __init__(self, description, due_date=None, priority=None):
@@ -96,6 +95,3 @@ def validate_date(date_text):
 if __name__ == "__main__":
     main()
 # This code implements a simple task list application that allows users to add, view, mark as complete, and delete tasks.
-git add.
-git commit -m "Second commit: Implemented a simple task list application"
-
