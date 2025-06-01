@@ -1,5 +1,8 @@
 # simple_task_list.py
 
+Descriptions
+Simple task list
+create, view 
 class Task:
     def __init__(self, description, due_date=None, priority=None):
         self.description = description
